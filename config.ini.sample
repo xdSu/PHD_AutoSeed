@@ -1,0 +1,11 @@
+[Cookies]
+c_secure_uid =
+c_secure_pass =
+c_secure_login =
+anonymous =1
+website=http://pt.phdbits.net
+[Torrents]
+watch =C:\Seedbox\muxed;D:\Seedbox\muxed
+torrents =E:\torrents
+download =D:\Seedbox\download
+
